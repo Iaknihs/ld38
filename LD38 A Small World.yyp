@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "2eda0b52-3edf-4f65-8a60-9dd2cdf04f56",
+            "Value": {
+                "id": "09ab7b8f-92cd-4b97-b70d-83fdf5231d82",
+                "resourcePath": "objects\\oPlanet\\oPlanet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "334de96f-4a1d-4e56-80f5-0dbc2a68c110",
+            "Value": {
+                "id": "300e5ad1-8082-4c8c-82b8-a37a53207dbb",
+                "resourcePath": "views\\334de96f-4a1d-4e56-80f5-0dbc2a68c110.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "353d2133-69e9-4706-8ee9-a2ded5f22a20",
             "Value": {
                 "id": "691e559a-600a-4a7c-bf07-a66ff8988161",
