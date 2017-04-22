@@ -1,5 +1,7 @@
 /// @description
 
-if(other.jumping){
-	instance_destroy();
+if(other.jumping and !birdImmune){
+	if(hp>0) hp-=50;
+	if(hp<=0) instance_destroy();
+	birdImmune=true;
 }

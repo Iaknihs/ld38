@@ -2,5 +2,5 @@
 
 instance_destroy();
 
-oPlanet.hitpoints -= 100;
+oPlanet.hitpoints -= hp;
 if(oPlanet.hitpoints <= 0) game_restart();

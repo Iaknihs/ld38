@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "f7f1d0a2-8791-4c88-a7d4-0442cb64d71d",
+            "Value": {
+                "id": "9a5345b3-d093-4bed-8d72-2070f6eb0e96",
+                "resourcePath": "objects\\oMeteorL\\oMeteorL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fa69bdb4-eedb-4e69-a563-d7273da3534f",
             "Value": {
                 "id": "aa3f45d7-aad9-4f77-b0c2-8dfc54ec034b",
