@@ -111,11 +111,35 @@
             }
         },
         {
+            "Key": "8778d9f9-88d6-4807-bd2c-cccb0c0d6112",
+            "Value": {
+                "id": "dd23d8a9-bcb2-4425-9c0e-4c6bce9ca3a1",
+                "resourcePath": "sprites\\sSetup\\sSetup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8cab10ff-b04e-452d-8bc2-c7be74fb2617",
+            "Value": {
+                "id": "0d26c6fa-e377-482b-9aa8-ea1e26835ecd",
+                "resourcePath": "datafiles_yy\\config.ini.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "917cab16-d31f-4521-92fd-6acab142c7d2",
             "Value": {
                 "id": "3f3973b0-a16a-4a4c-bb29-eb811c6de3c8",
                 "resourcePath": "sprites\\sprite_SpaceBG_1\\sprite_SpaceBG_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a304daff-8798-42cd-b824-b72e334140c8",
+            "Value": {
+                "id": "a9e0f730-55e1-444a-a508-1a844d801603",
+                "resourcePath": "objects\\oSetup\\oSetup.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -63,17 +63,17 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4290822336
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "917cab16-d31f-4521-92fd-6acab142c7d2",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
             "vtiled": false,
-            "x": 0,
-            "y": 0
+            "x": 700,
+            "y": 700
         }
     ],
     "parentId": "00000000-0000-0000-0000-000000000000",
