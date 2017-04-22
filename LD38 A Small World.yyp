@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "61668d9d-3afc-4d49-9a78-9d843c5d6447",
+            "Value": {
+                "id": "f5624056-8c17-48dc-bf5b-f2e484f7401c",
+                "resourcePath": "sprites\\sPlanet1\\sPlanet1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66ae65a1-3045-4108-86c5-f69396f3098c",
             "Value": {
                 "id": "7b411d36-44b3-48bf-84cc-833889e0f87e",
@@ -99,6 +107,14 @@
             "Value": {
                 "id": "2c60bcd4-8b17-432d-b8d8-e63b6f98b806",
                 "resourcePath": "views\\6bd460ff-135d-4753-853c-f92a24885762.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "81e75674-9736-4e75-b41a-5ff45f955380",
+            "Value": {
+                "id": "1a7092a5-7a3b-4e6e-a538-e585e3026639",
+                "resourcePath": "views\\81e75674-9736-4e75-b41a-5ff45f955380.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -138,7 +154,15 @@
             "Key": "917cab16-d31f-4521-92fd-6acab142c7d2",
             "Value": {
                 "id": "3f3973b0-a16a-4a4c-bb29-eb811c6de3c8",
-                "resourcePath": "sprites\\sprite_SpaceBG_1\\sprite_SpaceBG_1.yy",
+                "resourcePath": "sprites\\sSpaceBG1\\sSpaceBG1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "991b6065-a272-4b0d-8ee2-f45c29fdee7f",
+            "Value": {
+                "id": "2dcd5397-3058-41f8-a842-6ed96c9a537d",
+                "resourcePath": "sprites\\sBird\\sBird.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -195,6 +219,14 @@
             "Value": {
                 "id": "a48afe24-4ec8-4e6f-973d-46f596d79621",
                 "resourcePath": "views\\da92d073-6f74-4917-8d0a-5b5383b0c02f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc2a6f95-dc4d-4b6d-87b4-2a932656bd29",
+            "Value": {
+                "id": "e82c227c-a9a9-4fab-9721-b348cf825cc7",
+                "resourcePath": "views\\dc2a6f95-dc4d-4b6d-87b4-2a932656bd29.yy",
                 "resourceType": "GMFolder"
             }
         },
