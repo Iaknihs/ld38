@@ -6,8 +6,13 @@
     "children": [
         "9ed57ee4-662a-469a-94da-8d84685f2358",
         "eef7c45f-752c-4fa6-b110-6cae2064f5cc",
+        "05338ede-0fe0-4daf-aaa4-b1a304ddc67c",
         "df959821-22fa-4005-85f5-0ef3bb1fca5f",
-        "344d03aa-54d7-4bcf-beaf-59e167e511b1"
+        "7c229e43-3808-45aa-83d0-965599ebf76a",
+        "344d03aa-54d7-4bcf-beaf-59e167e511b1",
+        "10990085-8edf-4d58-8781-f10b146dae1b",
+        "451074c7-fcb8-4bc7-ae7b-e7b159156e37",
+        "abe01323-2617-422d-b80a-1b276bd05309"
     ],
     "filterType": "GMSprite",
     "folderName": "ENM",

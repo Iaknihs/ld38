@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "05338ede-0fe0-4daf-aaa4-b1a304ddc67c",
+            "Value": {
+                "id": "f361202d-8ab2-43e7-8c3d-9226acdfcd02",
+                "resourcePath": "sprites\\sMeteorMdamaged\\sMeteorMdamaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08074fdf-7f6b-44c4-abf2-89cb80f7c5e3",
             "Value": {
                 "id": "12351640-e53a-4fad-adc6-044204e7a4e8",
@@ -51,6 +59,14 @@
             "Value": {
                 "id": "56569540-d801-416d-8559-3af96d276744",
                 "resourcePath": "sprites\\sMustache\\sMustache.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "10990085-8edf-4d58-8781-f10b146dae1b",
+            "Value": {
+                "id": "0c213a87-d776-46b3-8917-1817a16616a6",
+                "resourcePath": "sprites\\sFlyingTophatDamaged\\sFlyingTophatDamaged.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "451074c7-fcb8-4bc7-ae7b-e7b159156e37",
+            "Value": {
+                "id": "0e429738-475d-4dca-af61-d7c8e4fa15a0",
+                "resourcePath": "sprites\\sWorldEater\\sWorldEater.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5772eb4e-e20e-4cf0-b5d9-c0428637a996",
             "Value": {
                 "id": "0fcb765e-2eda-411f-b5a3-450bae184f87",
@@ -252,6 +276,14 @@
                 "id": "235a0c53-bcee-4c9f-8ba3-e04877d5e481",
                 "resourcePath": "objects\\oExplosion\\oExplosion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7c229e43-3808-45aa-83d0-965599ebf76a",
+            "Value": {
+                "id": "18e9c299-1d2c-4b39-b5f0-c6f2b739bd71",
+                "resourcePath": "sprites\\sMeteorLdamaged\\sMeteorLdamaged.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -348,6 +380,14 @@
                 "id": "ab40327b-8276-42b7-a2fd-0d6c61c80123",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "abe01323-2617-422d-b80a-1b276bd05309",
+            "Value": {
+                "id": "dd506284-4443-4d7d-952d-475362c12d35",
+                "resourcePath": "sprites\\s_WorldEaterJaw\\s_WorldEaterJaw.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
