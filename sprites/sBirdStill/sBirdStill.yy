@@ -2,7 +2,7 @@
     "id": "991b6065-a272-4b0d-8ee2-f45c29fdee7f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sBird",
+    "name": "sBirdStill",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -53,7 +53,7 @@
             "visible": true
         }
     ],
-    "origin": 0,
+    "origin": 7,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "sepmasks": false,
@@ -62,6 +62,6 @@
     "textureGroup": 0,
     "type": 0,
     "width": 50,
-    "xorig": 0,
-    "yorig": 0
+    "xorig": 25,
+    "yorig": 55
 }

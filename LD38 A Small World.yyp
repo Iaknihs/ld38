@@ -154,7 +154,7 @@
             "Key": "991b6065-a272-4b0d-8ee2-f45c29fdee7f",
             "Value": {
                 "id": "2dcd5397-3058-41f8-a842-6ed96c9a537d",
-                "resourcePath": "sprites\\sBird\\sBird.yy",
+                "resourcePath": "sprites\\sBirdStill\\sBirdStill.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -196,6 +196,14 @@
                 "id": "de1f5634-636e-4628-a9ee-6c0f6ee73f60",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d29537f8-3248-4a4c-baa3-4ab5fbd96738",
+            "Value": {
+                "id": "3c9f1c36-82c8-4b0b-bb90-2201030aea74",
+                "resourcePath": "sprites\\sBirdWalk\\sBirdWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
