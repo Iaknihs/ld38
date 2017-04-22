@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "c873904a-f7a3-46dd-8eda-58a5ff0e4542",
+            "Value": {
+                "id": "8081b685-04a4-4c9e-908c-5f232bf6bb55",
+                "resourcePath": "sprites\\sChicken\\sChicken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "de1f5634-636e-4628-a9ee-6c0f6ee73f60",
