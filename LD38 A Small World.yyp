@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "08074fdf-7f6b-44c4-abf2-89cb80f7c5e3",
+            "Value": {
+                "id": "12351640-e53a-4fad-adc6-044204e7a4e8",
+                "resourcePath": "sprites\\sExplosion\\sExplosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0eb5c9ec-b0eb-4a3a-bb5f-08d8dd5a9bc8",
             "Value": {
                 "id": "56569540-d801-416d-8559-3af96d276744",
