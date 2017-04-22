@@ -5,5 +5,12 @@ image_angle += 1;
 xrel = xrel + lengthdir_x(sp,dir);
 yrel = yrel + lengthdir_y(sp,dir);
 
-x = oPlanet.x + lengthdir_x(point_distance(xrel,yrel,oPlanet.x,oPlanet.y),rDir+oPlanet.image_angle);
-y = oPlanet.y + lengthdir_y(point_distance(xrel,yrel,oPlanet.x,oPlanet.y),rDir+oPlanet.image_angle);
+x = oPlanet.x + lengthdir_x(point_distance(xrel,yrel,oPlanet.x,oPlanet.y),rDir+oPlanet.image_angle-angStart);
+y = oPlanet.y + lengthdir_y(point_distance(xrel,yrel,oPlanet.x,oPlanet.y),rDir+oPlanet.image_angle-angStart);
+
+if(hurtTimer>0){
+	sprite_index = sMeteorMdamaged;
+	hurtTimer--;
+}else{
+	sprite_index = sMeteorM;
+}

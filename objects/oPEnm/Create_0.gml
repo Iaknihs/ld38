@@ -3,3 +3,5 @@
 
 hp=0;
 birdImmune=false;
+hurtTimer = 0;
+angStart = oPlanet.image_angle;
