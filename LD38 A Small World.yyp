@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "43068207-49e8-4f6e-8b36-d439cb93ca4a",
+            "Value": {
+                "id": "5d74a083-2941-4541-b853-5f3b85d06a4d",
+                "resourcePath": "sprites\\sPlanetChickIdle\\sPlanetChickIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "437e6612-70b9-4cf4-92fd-4b2ca8a8b08f",
             "Value": {
                 "id": "20a89c50-5a26-4700-ac6e-bac8715869e4",
@@ -466,7 +474,7 @@
             "Key": "fbc22a5a-07f5-46b6-be1e-7294bfd8945b",
             "Value": {
                 "id": "dea686b6-5369-4562-b940-f5cad1608d33",
-                "resourcePath": "sprites\\sPlanetChick\\sPlanetChick.yy",
+                "resourcePath": "sprites\\sPlanetChickHatching\\sPlanetChickHatching.yy",
                 "resourceType": "GMSprite"
             }
         },

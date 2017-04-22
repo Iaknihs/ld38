@@ -2,7 +2,7 @@
     "id": "fbc22a5a-07f5-46b6-be1e-7294bfd8945b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sPlanetChick",
+    "name": "sPlanetChickHatching",
     "For3D": false,
     "HTile": false,
     "VTile": false,
