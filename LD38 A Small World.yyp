@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "21278e0d-4880-4415-9fda-838f389f1a3b",
+            "Value": {
+                "id": "a3cbc754-35a6-4113-a152-3d7a2888f0d5",
+                "resourcePath": "objects\\oBird\\oBird.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "219dfd4d-bad4-4e57-b809-9a2c8261bb7e",
             "Value": {
                 "id": "55e3e0f9-a4fe-443f-9050-50db1c56224f",
