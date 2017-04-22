@@ -13,6 +13,16 @@ if(jumping){
 	sprite_index = sBirdJump;
 	dy=-30;
 	jumping = true;
+	if(carrying!=noone and carrying.thrown != true){
+		carrying.thrown = true;
+		carrying.xrel = x;
+		carrying.yrel = y-sprite_height;
+		carrying.rDir = point_direction(x,y,oPlanet.x,oPlanet.y);
+		carrying.dir = point_direction(oPlanet.x,oPlanet.y,x,y);
+		carrying.x=x;
+		carrying.y=y+sprite_height;
+		carrying.angStart = oPlanet.image_angle;
+	}
 }else if(oControl.leftPressed and not oControl.rightPressed){
 	sprite_index = sBirdWalk;
 	image_xscale = -1;

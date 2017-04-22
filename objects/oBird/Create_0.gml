@@ -7,3 +7,5 @@ jumping = false;
 
 dy=0;
 grav=3;
+
+carrying = noone;
