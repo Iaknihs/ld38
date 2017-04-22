@@ -5,4 +5,4 @@ yrel = ystart;
 dir = point_direction(xstart,ystart,oPlanet.x,oPlanet.y);
 rDir = point_direction(oPlanet.x,oPlanet.y,xstart,ystart);
 
-sp = 0.3;
+sp = 0.5;

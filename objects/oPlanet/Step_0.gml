@@ -6,3 +6,4 @@ if(oControl.leftPressed){
 if(oControl.rightPressed){
 	image_angle +=1;
 }
+

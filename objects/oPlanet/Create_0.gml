@@ -1,3 +1,3 @@
 /// @description 
 
-instance_destroy();
+hitpoints = 1000;
