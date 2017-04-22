@@ -1,6 +1,19 @@
 /// @description BIIIIIIIRD
 
-if(oControl.leftPressed and not oControl.rightPressed){
+if(jumping){y+=dy; dy+=grav;}
+
+if(jumping){
+	sprite_index = sBirdJump;
+	if(y>ystart){
+		dy=0;
+		y=ystart;
+		jumping = false;
+	}
+}else if(oControl.jumpJustPressed){
+	sprite_index = sBirdJump;
+	dy=-30;
+	jumping = true;
+}else if(oControl.leftPressed and not oControl.rightPressed){
 	sprite_index = sBirdWalk;
 	image_xscale = -1;
 	hatchingtime = 0;
@@ -24,7 +37,7 @@ if(oControl.leftPressed and not oControl.rightPressed){
 			instance_create_layer(x,y,"Instances",oEgg);
 		}
 	}
-}else{
+}else {
 	sprite_index = sBirdStill;
 	hatchingtime = 0;
 	hatchingstate = 0;

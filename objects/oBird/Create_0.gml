@@ -3,3 +3,7 @@
 
 hatchingtime = 0;
 hatchingstate = 0;
+jumping = false;
+
+dy=0;
+grav=3;
