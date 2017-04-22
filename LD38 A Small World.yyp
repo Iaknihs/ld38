@@ -386,7 +386,7 @@
             "Key": "abe01323-2617-422d-b80a-1b276bd05309",
             "Value": {
                 "id": "dd506284-4443-4d7d-952d-475362c12d35",
-                "resourcePath": "sprites\\s_WorldEaterJaw\\s_WorldEaterJaw.yy",
+                "resourcePath": "sprites\\s_WorldEaterJaw1\\s_WorldEaterJaw1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -404,6 +404,14 @@
                 "id": "18393fe1-a0d0-47b6-9af4-be1bdb527b12",
                 "resourcePath": "views\\acf4b7e3-3c5a-40c1-8cc3-6490494a37bf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b776fa9f-2834-4333-a5da-a75a1bae3080",
+            "Value": {
+                "id": "642ba211-801b-48d3-b5b4-f728a135f74a",
+                "resourcePath": "sprites\\s_WorldEaterJaw2\\s_WorldEaterJaw2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
