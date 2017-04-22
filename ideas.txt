@@ -1,0 +1,12 @@
+Small World
+
+player runs on tiny planet
+
+goal: defend the planet from danger
+
+possible threats:
+- outside threats from outer space 
+	(meteors, aliens, giant world eaters, the sun)
+- inside threats from the planet
+	(inhabitants evoling to get bigger, trying to kill the player,
+	planet tries to eat the player)

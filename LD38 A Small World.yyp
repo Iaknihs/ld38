@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "917cab16-d31f-4521-92fd-6acab142c7d2",
+            "Value": {
+                "id": "3f3973b0-a16a-4a4c-bb29-eb811c6de3c8",
+                "resourcePath": "sprites\\sprite_SpaceBG_1\\sprite_SpaceBG_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "ab40327b-8276-42b7-a2fd-0d6c61c80123",

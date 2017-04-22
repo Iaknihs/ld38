@@ -3,8 +3,8 @@
         "Value": 4278190080
     },
     "option_gameguid": "e167801e-5649-403f-9d29-7e7a98aec255",
-    "option_lastchanged": "22 April 2017 9:17:24",
-    "option_author": "Iak",
+    "option_lastchanged": "22 April 2017 7:34:52",
+    "option_author": "Rik",
     "option_sci_usesci": true,
     "option_game_speed": 60
 }
