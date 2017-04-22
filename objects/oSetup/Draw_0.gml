@@ -14,5 +14,6 @@ global.keyRestart = findKey(ini_read_string("controls","restart","R"));
 
 instance_create_depth(x,y,0,oControl);
 
+//THIS DRAW EVENT IS ONLY DONE ONCE!
 instance_destroy();
-room_goto_next();
+room_goto_next()
