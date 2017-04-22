@@ -13,7 +13,8 @@
         "10990085-8edf-4d58-8781-f10b146dae1b",
         "451074c7-fcb8-4bc7-ae7b-e7b159156e37",
         "abe01323-2617-422d-b80a-1b276bd05309",
-        "b776fa9f-2834-4333-a5da-a75a1bae3080"
+        "b776fa9f-2834-4333-a5da-a75a1bae3080",
+        "ae5013c8-6ded-4d73-9ae0-78d00b5c6c37"
     ],
     "filterType": "GMSprite",
     "folderName": "ENM",
