@@ -1,5 +1,12 @@
 /// @description 
 
+if(counter>0){
+	counter--;
+	if(counter==0){
+		sp=-sp/4;
+	}
+}
+
 xrel = xrel + sp;
 yrel = yrel;
 
