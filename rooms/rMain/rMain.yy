@@ -646,7 +646,7 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -658,7 +658,7 @@
             "m_serialiseFrozen": false,
             "name": "World",
             "userdefined_depth": false,
-            "visible": false,
+            "visible": true,
             "instances": [
                 {
                     "id": "03335aa8-cd8e-4ba1-b038-da9c4e6a8a38",
