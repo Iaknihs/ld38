@@ -16,12 +16,10 @@ if(jumping){
 }else if(oControl.leftPressed and not oControl.rightPressed){
 	sprite_index = sBirdWalk;
 	image_xscale = -1;
-	hatchingtime = 0;
 	hatchingstate = 0;
 }else if(oControl.rightPressed and not oControl.leftPressed){
 	sprite_index = sBirdWalk;
 	image_xscale = 1;
-	hatchingtime = 0;
 	hatchingstate = 0;
 }else if(oControl.downPressed){
 	if(hatchingstate == 0){
@@ -39,6 +37,5 @@ if(jumping){
 	}
 }else {
 	sprite_index = sBirdStill;
-	hatchingtime = 0;
 	hatchingstate = 0;
 }

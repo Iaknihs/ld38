@@ -6,4 +6,3 @@ if(oControl.leftPressed and !oBird.jumping){
 if(oControl.rightPressed and !oBird.jumping){
 	image_angle +=1;
 }
-
