@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "78e91884-4c32-4760-8348-d1f35f1310c7",
+            "Value": {
+                "id": "041c939d-9d9f-4927-a262-a967b0e214b0",
+                "resourcePath": "sprites\\sJackHand2\\sJackHand2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b22883c-7290-46c6-8a7f-0184700dc187",
             "Value": {
                 "id": "3db56d4f-023a-4087-bfac-fa81f1ab1ad0",
@@ -444,6 +452,14 @@
                 "id": "a9e0f730-55e1-444a-a508-1a844d801603",
                 "resourcePath": "objects\\oSetup\\oSetup.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5e506fd-8b0c-43d5-9c65-05e7d0e8f06b",
+            "Value": {
+                "id": "5adffe8a-f66d-4cb8-a580-e528ca448ecc",
+                "resourcePath": "sprites\\sJackHand3\\sJackHand3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
