@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "05338ede-0fe0-4daf-aaa4-b1a304ddc67c",
+            "Value": {
+                "id": "f361202d-8ab2-43e7-8c3d-9226acdfcd02",
+                "resourcePath": "sprites\\sMeteorMdamaged\\sMeteorMdamaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08074fdf-7f6b-44c4-abf2-89cb80f7c5e3",
             "Value": {
                 "id": "12351640-e53a-4fad-adc6-044204e7a4e8",
@@ -51,6 +59,14 @@
             "Value": {
                 "id": "56569540-d801-416d-8559-3af96d276744",
                 "resourcePath": "sprites\\sMustache\\sMustache.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "10990085-8edf-4d58-8781-f10b146dae1b",
+            "Value": {
+                "id": "0c213a87-d776-46b3-8917-1817a16616a6",
+                "resourcePath": "sprites\\sFlyingTophatDamaged\\sFlyingTophatDamaged.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "451074c7-fcb8-4bc7-ae7b-e7b159156e37",
+            "Value": {
+                "id": "0e429738-475d-4dca-af61-d7c8e4fa15a0",
+                "resourcePath": "sprites\\sWorldEater\\sWorldEater.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5772eb4e-e20e-4cf0-b5d9-c0428637a996",
             "Value": {
                 "id": "0fcb765e-2eda-411f-b5a3-450bae184f87",
@@ -252,6 +276,14 @@
                 "id": "235a0c53-bcee-4c9f-8ba3-e04877d5e481",
                 "resourcePath": "objects\\oExplosion\\oExplosion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7c229e43-3808-45aa-83d0-965599ebf76a",
+            "Value": {
+                "id": "18e9c299-1d2c-4b39-b5f0-c6f2b739bd71",
+                "resourcePath": "sprites\\sMeteorLdamaged\\sMeteorLdamaged.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -351,6 +383,14 @@
             }
         },
         {
+            "Key": "abe01323-2617-422d-b80a-1b276bd05309",
+            "Value": {
+                "id": "dd506284-4443-4d7d-952d-475362c12d35",
+                "resourcePath": "sprites\\s_WorldEaterJaw1\\s_WorldEaterJaw1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ac1d6f18-5b14-473a-b793-95fe26cd9eb7",
             "Value": {
                 "id": "5e909928-fc4d-4b35-bdb0-f985247fb638",
@@ -364,6 +404,22 @@
                 "id": "18393fe1-a0d0-47b6-9af4-be1bdb527b12",
                 "resourcePath": "views\\acf4b7e3-3c5a-40c1-8cc3-6490494a37bf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ae5013c8-6ded-4d73-9ae0-78d00b5c6c37",
+            "Value": {
+                "id": "e8d433c9-768f-41ce-a36d-5fbaa5616536",
+                "resourcePath": "sprites\\sWorldEaterComplete\\sWorldEaterComplete.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b776fa9f-2834-4333-a5da-a75a1bae3080",
+            "Value": {
+                "id": "642ba211-801b-48d3-b5b4-f728a135f74a",
+                "resourcePath": "sprites\\s_WorldEaterJaw2\\s_WorldEaterJaw2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
