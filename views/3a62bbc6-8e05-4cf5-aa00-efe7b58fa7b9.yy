@@ -14,7 +14,15 @@
         "451074c7-fcb8-4bc7-ae7b-e7b159156e37",
         "abe01323-2617-422d-b80a-1b276bd05309",
         "b776fa9f-2834-4333-a5da-a75a1bae3080",
-        "ae5013c8-6ded-4d73-9ae0-78d00b5c6c37"
+        "ae5013c8-6ded-4d73-9ae0-78d00b5c6c37",
+        "ddb2e6b6-c8ee-459e-9c57-2ed9d9b6d68a",
+        "3011d78c-ebd0-4d9b-aa67-2b9335d25d77",
+        "56b51519-035d-4605-8db9-736aae9fcc07",
+        "1b38a8df-cba2-4977-952e-7958446bc347",
+        "f2611665-2fea-45a6-977b-333f2034a1ae",
+        "7b22883c-7290-46c6-8a7f-0184700dc187",
+        "3c859e4c-da01-4776-8add-39eb078b1c56",
+        "bda97841-678e-4734-9a26-dbe5b5fb9c4a"
     ],
     "filterType": "GMSprite",
     "folderName": "ENM",

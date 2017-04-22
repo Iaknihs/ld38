@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1b38a8df-cba2-4977-952e-7958446bc347",
+            "Value": {
+                "id": "5ab7c617-10b3-456f-991f-f34af13f1b48",
+                "resourcePath": "sprites\\sJackDeSpawn\\sJackDeSpawn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21278e0d-4880-4415-9fda-838f389f1a3b",
             "Value": {
                 "id": "a3cbc754-35a6-4113-a152-3d7a2888f0d5",
@@ -132,6 +140,14 @@
                 "id": "09ab7b8f-92cd-4b97-b70d-83fdf5231d82",
                 "resourcePath": "objects\\oPlanet\\oPlanet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3011d78c-ebd0-4d9b-aa67-2b9335d25d77",
+            "Value": {
+                "id": "576f9d52-e0b5-4ea3-849f-af95e7a5b5d1",
+                "resourcePath": "sprites\\sJackDamage\\sJackDamage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "3c859e4c-da01-4776-8add-39eb078b1c56",
+            "Value": {
+                "id": "c5f7e3fe-9df8-4074-9629-dad71411ae6b",
+                "resourcePath": "sprites\\sJackHandSnip\\sJackHandSnip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3cdd133a-dcd5-4073-b752-eeaa66f5794c",
             "Value": {
                 "id": "498ccdaf-5743-4768-83ac-d0d63ac4819e",
@@ -227,6 +251,14 @@
             "Value": {
                 "id": "0e429738-475d-4dca-af61-d7c8e4fa15a0",
                 "resourcePath": "sprites\\sWorldEater\\sWorldEater.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "56b51519-035d-4605-8db9-736aae9fcc07",
+            "Value": {
+                "id": "7f56187f-8142-4f8e-ad90-1b042a02a31e",
+                "resourcePath": "sprites\\sJackSpawn\\sJackSpawn.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -284,6 +316,14 @@
                 "id": "5ffbc846-faf7-43fb-b151-616d621a7394",
                 "resourcePath": "objects\\oFlyingTophat\\oFlyingTophat.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7b22883c-7290-46c6-8a7f-0184700dc187",
+            "Value": {
+                "id": "3db56d4f-023a-4087-bfac-fa81f1ab1ad0",
+                "resourcePath": "sprites\\sJackInvisible\\sJackInvisible.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -455,6 +495,14 @@
             }
         },
         {
+            "Key": "bda97841-678e-4734-9a26-dbe5b5fb9c4a",
+            "Value": {
+                "id": "e7f6148f-b6f5-45b3-a42d-a6dec8abf4d4",
+                "resourcePath": "sprites\\sJackHand\\sJackHand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c7b62915-f929-4588-a87c-27039a6f96e4",
             "Value": {
                 "id": "9c02af3a-bc43-4d0d-80d4-6867de6c9ea5",
@@ -511,6 +559,14 @@
             }
         },
         {
+            "Key": "ddb2e6b6-c8ee-459e-9c57-2ed9d9b6d68a",
+            "Value": {
+                "id": "3d7875c3-5e95-4a40-9e5d-8c5c430027d6",
+                "resourcePath": "sprites\\sJack\\sJack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df959821-22fa-4005-85f5-0ef3bb1fca5f",
             "Value": {
                 "id": "2d78575a-c72c-44e0-8965-3e1501c0bddf",
@@ -539,6 +595,14 @@
             "Value": {
                 "id": "a06825a0-f0dd-439c-81af-b9c9dc226d45",
                 "resourcePath": "sprites\\sMeteorM\\sMeteorM.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f2611665-2fea-45a6-977b-333f2034a1ae",
+            "Value": {
+                "id": "aeb3880f-74ef-4d4a-afe5-da8b5e4b55a1",
+                "resourcePath": "sprites\\sJackSilhouette\\sJackSilhouette.yy",
                 "resourceType": "GMSprite"
             }
         },
