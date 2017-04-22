@@ -6,7 +6,8 @@
     "children": [
         "9ed57ee4-662a-469a-94da-8d84685f2358",
         "eef7c45f-752c-4fa6-b110-6cae2064f5cc",
-        "df959821-22fa-4005-85f5-0ef3bb1fca5f"
+        "df959821-22fa-4005-85f5-0ef3bb1fca5f",
+        "344d03aa-54d7-4bcf-beaf-59e167e511b1"
     ],
     "filterType": "GMSprite",
     "folderName": "ENM",
