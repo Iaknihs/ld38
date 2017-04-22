@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "fbc22a5a-07f5-46b6-be1e-7294bfd8945b",
+            "Value": {
+                "id": "dea686b6-5369-4562-b940-f5cad1608d33",
+                "resourcePath": "sprites\\sPlanetChick\\sPlanetChick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fca43e79-8a9a-4c7c-873f-9dae14e48ac6",
             "Value": {
                 "id": "4230eb64-b4ee-4a86-8967-390703297419",
