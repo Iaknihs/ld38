@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "99685824-b65e-4bd9-a89e-07ae4fc48691",
+            "Value": {
+                "id": "70012556-5726-45cb-82e7-968e6b41fed9",
+                "resourcePath": "sprites\\sPlanet1_1\\sPlanet1_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ed57ee4-662a-469a-94da-8d84685f2358",
             "Value": {
                 "id": "6951e8c4-3ac9-46f5-92cc-62c73b7c5f3c",

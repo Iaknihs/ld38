@@ -9,7 +9,8 @@
         "fbc22a5a-07f5-46b6-be1e-7294bfd8945b",
         "9ffab940-f343-453e-aa69-091431ba23a3",
         "43068207-49e8-4f6e-8b36-d439cb93ca4a",
-        "08074fdf-7f6b-44c4-abf2-89cb80f7c5e3"
+        "08074fdf-7f6b-44c4-abf2-89cb80f7c5e3",
+        "99685824-b65e-4bd9-a89e-07ae4fc48691"
     ],
     "filterType": "GMSprite",
     "folderName": "IMAGES",
