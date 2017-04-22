@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "437e6612-70b9-4cf4-92fd-4b2ca8a8b08f",
+            "Value": {
+                "id": "20a89c50-5a26-4700-ac6e-bac8715869e4",
+                "resourcePath": "sprites\\sBirdJump\\sBirdJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5772eb4e-e20e-4cf0-b5d9-c0428637a996",
             "Value": {
                 "id": "0fcb765e-2eda-411f-b5a3-450bae184f87",
@@ -364,6 +372,14 @@
                 "id": "e82c227c-a9a9-4fab-9721-b348cf825cc7",
                 "resourcePath": "views\\dc2a6f95-dc4d-4b6d-87b4-2a932656bd29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df959821-22fa-4005-85f5-0ef3bb1fca5f",
+            "Value": {
+                "id": "2d78575a-c72c-44e0-8965-3e1501c0bddf",
+                "resourcePath": "sprites\\sMeteorL\\sMeteorL.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
