@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "069039fa-ea2e-46e9-bff6-6c09a7256eac",
+            "Value": {
+                "id": "0cda7832-ed5d-4bb9-be64-535c8951c51c",
+                "resourcePath": "objects\\oWorldEater\\oWorldEater.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08074fdf-7f6b-44c4-abf2-89cb80f7c5e3",
             "Value": {
                 "id": "12351640-e53a-4fad-adc6-044204e7a4e8",
