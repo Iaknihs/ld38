@@ -9,7 +9,6 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "e88dd44f-8bc0-4755-b0c8-61f585673f76",
         "3ffc44f5-48ce-4c05-aabb-a982fe1ff445",
         "f7aaf256-96c9-496c-bb34-e3cca266223b",
         "9ad8d513-0a89-4e48-ba1d-6ed25474255a",
@@ -33,7 +32,8 @@
         "206ff7ff-798d-482f-b2de-d8f27b670afd",
         "9fa55dbb-e07f-4c9c-9036-7179901cfb48",
         "8e3633d2-7d27-4838-800f-84cca5dce1d1",
-        "7df8ba19-888b-4f36-b5b9-289c82275c3d"
+        "7df8ba19-888b-4f36-b5b9-289c82275c3d",
+        "03335aa8-cd8e-4ba1-b038-da9c4e6a8a38"
     ],
     "layers": [
         {
@@ -59,30 +59,6 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                {
-                    "id": "e88dd44f-8bc0-4755-b0c8-61f585673f76",
-                    "modelName": "GMRInstance",
-                    "mvc": "1.0",
-                    "ignore": false,
-                    "inheritItemSettings": false,
-                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
-                    "m_serialiseFrozen": false,
-                    "name": "inst_68ABC381",
-                    "x": 1632,
-                    "y": 1216,
-                    "IsDnD": false,
-                    "colour": {
-                        "Value": 4294967295
-                    },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
-                    "inheritCode": false,
-                    "name_with_no_file_rename": "inst_68ABC381",
-                    "objId": "2eda0b52-3edf-4f65-8a60-9dd2cdf04f56",
-                    "rotation": 0,
-                    "scaleX": 1,
-                    "scaleY": 1
-                },
                 {
                     "id": "3ffc44f5-48ce-4c05-aabb-a982fe1ff445",
                     "modelName": "GMRInstance",
@@ -662,11 +638,60 @@
             ]
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "afbb382a-a3bf-4f46-8351-ce43bbcf3bc4",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": false,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "World",
+            "userdefined_depth": false,
+            "visible": false,
+            "instances": [
+                {
+                    "id": "03335aa8-cd8e-4ba1-b038-da9c4e6a8a38",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_25F20583",
+                    "x": 1632,
+                    "y": 1216,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_25F20583",
+                    "objId": "2eda0b52-3edf-4f65-8a60-9dd2cdf04f56",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
+            ]
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "id": "73ba3eb7-cc95-4247-93c0-2578babb7416",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

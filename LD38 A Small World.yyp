@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "14186f66-daf6-4950-a36e-33fd6cfa1570",
+            "Value": {
+                "id": "f15ae623-c19e-41a4-9c77-a06ee15f725a",
+                "resourcePath": "objects\\oPHelper\\oPHelper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21278e0d-4880-4415-9fda-838f389f1a3b",
             "Value": {
                 "id": "a3cbc754-35a6-4113-a152-3d7a2888f0d5",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "9288b39a-28a7-45f9-8a79-82da8fc23bf9",
+            "Value": {
+                "id": "63d1a32d-7279-4ae8-b1cd-26f760effdce",
+                "resourcePath": "objects\\oChick\\oChick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "991b6065-a272-4b0d-8ee2-f45c29fdee7f",
             "Value": {
                 "id": "2dcd5397-3058-41f8-a842-6ed96c9a537d",
@@ -284,6 +300,14 @@
                 "id": "ab40327b-8276-42b7-a2fd-0d6c61c80123",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ac1d6f18-5b14-473a-b793-95fe26cd9eb7",
+            "Value": {
+                "id": "5e909928-fc4d-4b35-bdb0-f985247fb638",
+                "resourcePath": "objects\\oPEnm\\oPEnm.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -396,6 +420,14 @@
                 "id": "aa3f45d7-aad9-4f77-b0c2-8dfc54ec034b",
                 "resourcePath": "sprites\\sBirdHatchIdle\\sBirdHatchIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fca43e79-8a9a-4c7c-873f-9dae14e48ac6",
+            "Value": {
+                "id": "4230eb64-b4ee-4a86-8967-390703297419",
+                "resourcePath": "objects\\oEgg\\oEgg.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

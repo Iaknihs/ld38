@@ -1,42 +1,32 @@
 {
-    "id": "7326e133-ea86-48e1-a5ef-5f7b13b6f57a",
+    "id": "fca43e79-8a9a-4c7c-873f-9dae14e48ac6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oMeteorM",
+    "name": "oEgg",
     "eventList": [
         {
-            "id": "b956c203-2608-425e-859b-faa788f596ab",
+            "id": "5789dbfd-0817-497d-a0d5-258f907c3c64",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "7326e133-ea86-48e1-a5ef-5f7b13b6f57a"
+            "m_owner": "fca43e79-8a9a-4c7c-873f-9dae14e48ac6"
         },
         {
-            "id": "2e0fd965-4267-444a-bdaa-5ce32e268b99",
+            "id": "bfd8413c-4690-4576-b541-09b90ffb593f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "7326e133-ea86-48e1-a5ef-5f7b13b6f57a"
-        },
-        {
-            "id": "103ee93c-d8cd-4180-96ee-7ddf45d7cabf",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "2eda0b52-3edf-4f65-8a60-9dd2cdf04f56",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "7326e133-ea86-48e1-a5ef-5f7b13b6f57a"
+            "m_owner": "fca43e79-8a9a-4c7c-873f-9dae14e48ac6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "ac1d6f18-5b14-473a-b793-95fe26cd9eb7",
+    "parentObjectId": "14186f66-daf6-4950-a36e-33fd6cfa1570",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -51,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "eef7c45f-752c-4fa6-b110-6cae2064f5cc",
+    "spriteId": "35e01e3f-d6d9-4ce9-bab6-34a8df869095",
     "visible": true
 }
