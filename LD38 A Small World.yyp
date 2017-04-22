@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "8b9cde8d-324f-4849-829a-4e232b2c7083",
+            "Value": {
+                "id": "6c30ce5c-b710-4152-85a4-0f81c9ec412e",
+                "resourcePath": "sprites\\sBirdHatch\\sBirdHatch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8cab10ff-b04e-452d-8bc2-c7be74fb2617",
             "Value": {
                 "id": "0d26c6fa-e377-482b-9aa8-ea1e26835ecd",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "eef7c45f-752c-4fa6-b110-6cae2064f5cc",
+            "Value": {
+                "id": "a06825a0-f0dd-439c-81af-b9c9dc226d45",
+                "resourcePath": "sprites\\sMeteorM\\sMeteorM.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f2776824-3702-47d0-a141-293cf36af676",
             "Value": {
                 "id": "c2ac52ef-6ed0-455d-88af-b41ff8f6df95",
@@ -332,6 +348,14 @@
                 "id": "bf8bdbec-8ff8-45b8-992f-531d66326628",
                 "resourcePath": "views\\f7b03132-1327-4ea2-9f10-32db46f0f570.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa69bdb4-eedb-4e69-a563-d7273da3534f",
+            "Value": {
+                "id": "aa3f45d7-aad9-4f77-b0c2-8dfc54ec034b",
+                "resourcePath": "sprites\\sBirdHatchIdle\\sBirdHatchIdle.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
