@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "df959821-22fa-4005-85f5-0ef3bb1fca5f",
+            "Value": {
+                "id": "2d78575a-c72c-44e0-8965-3e1501c0bddf",
+                "resourcePath": "sprites\\sMeteorL\\sMeteorL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ebcd4feb-c81e-4ec0-b856-10bb1aff3345",
             "Value": {
                 "id": "f5035ac3-8f2e-40c2-8299-ea40022b8448",
