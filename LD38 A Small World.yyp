@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2bfc27e7-7bdf-4579-a28d-5e1bbbfea5ac",
+            "Value": {
+                "id": "9b9ab4d4-9159-4b16-a718-1a6c84d97744",
+                "resourcePath": "objects\\oMeteor\\oMeteor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2eda0b52-3edf-4f65-8a60-9dd2cdf04f56",
             "Value": {
                 "id": "09ab7b8f-92cd-4b97-b70d-83fdf5231d82",
