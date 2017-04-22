@@ -55,11 +55,35 @@
             }
         },
         {
+            "Key": "2eda0b52-3edf-4f65-8a60-9dd2cdf04f56",
+            "Value": {
+                "id": "09ab7b8f-92cd-4b97-b70d-83fdf5231d82",
+                "resourcePath": "objects\\oPlanet\\oPlanet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "334de96f-4a1d-4e56-80f5-0dbc2a68c110",
+            "Value": {
+                "id": "300e5ad1-8082-4c8c-82b8-a37a53207dbb",
+                "resourcePath": "views\\334de96f-4a1d-4e56-80f5-0dbc2a68c110.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "353d2133-69e9-4706-8ee9-a2ded5f22a20",
             "Value": {
                 "id": "691e559a-600a-4a7c-bf07-a66ff8988161",
                 "resourcePath": "views\\353d2133-69e9-4706-8ee9-a2ded5f22a20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3880a63c-99bb-4946-ad62-178b0036adc3",
+            "Value": {
+                "id": "dcaf963b-1681-48a4-aa39-e70fe5337a61",
+                "resourcePath": "objects\\oControl\\oControl.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -111,6 +135,14 @@
             }
         },
         {
+            "Key": "73a67088-8e3d-45db-89c0-181e86862e35",
+            "Value": {
+                "id": "b3880cb9-26dd-46ed-a7a2-fe13262c75d9",
+                "resourcePath": "sprites\\sControl\\sControl.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "81e75674-9736-4e75-b41a-5ff45f955380",
             "Value": {
                 "id": "1a7092a5-7a3b-4e6e-a538-e585e3026639",
@@ -132,6 +164,14 @@
                 "id": "dd23d8a9-bcb2-4425-9c0e-4c6bce9ca3a1",
                 "resourcePath": "sprites\\sSetup\\sSetup.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87b47bf8-c327-40ab-8a9f-47d1c8347b08",
+            "Value": {
+                "id": "4b7c38fc-0bcb-4ea0-af5d-4df5c2eb7af9",
+                "resourcePath": "scripts\\findKey\\findKey.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -272,7 +312,7 @@
         }
     ],
     "script_order": [
-        
+        "87b47bf8-c327-40ab-8a9f-47d1c8347b08"
     ],
     "tutorial": ""
 }
