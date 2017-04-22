@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "9ed57ee4-662a-469a-94da-8d84685f2358",
+            "Value": {
+                "id": "6951e8c4-3ac9-46f5-92cc-62c73b7c5f3c",
+                "resourcePath": "sprites\\sMeteor\\sMeteor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a304daff-8798-42cd-b824-b72e334140c8",
             "Value": {
                 "id": "a9e0f730-55e1-444a-a508-1a844d801603",
