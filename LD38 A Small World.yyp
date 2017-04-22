@@ -517,6 +517,14 @@
                 "resourcePath": "objects\\oEgg\\oEgg.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "fef42758-5e93-4ae1-ad1a-bdd12536ddaa",
+            "Value": {
+                "id": "9ddd1459-fb9c-473d-b75f-22259668ac17",
+                "resourcePath": "objects\\oChicken\\oChicken.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
