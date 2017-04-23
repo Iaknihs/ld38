@@ -15,7 +15,7 @@ if(nomming and image_index == image_number -1){
 	}
 	sprite_index = sPlanet1;
 }
-if(oBird.hatchingtime/*/30*/+100==255){
+if(oBird.hatchingtime/30+100==255){
 	sprite_index = sPlanetChickHatching;
 	oBird.hatchingtime +=100;
 	nomming=0;
