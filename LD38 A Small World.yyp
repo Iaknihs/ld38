@@ -959,6 +959,14 @@
             }
         },
         {
+            "Key": "fbe29a5f-f936-464e-88e0-3604687c3108",
+            "Value": {
+                "id": "d351f088-0f6f-4029-8809-15ad4d1c8315",
+                "resourcePath": "sounds\\sfVictory\\sfVictory.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "fca43e79-8a9a-4c7c-873f-9dae14e48ac6",
             "Value": {
                 "id": "4230eb64-b4ee-4a86-8967-390703297419",
