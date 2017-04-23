@@ -37,5 +37,4 @@ if(oBird.chainstart != 0){
 	}else{
 		draw_sprite_ext(sChain,cchained,x,y,1,1,image_angle,c_white,1);
 	}
-	if(instance_number(oJack)==0) oBird.chainstart=0;
 }

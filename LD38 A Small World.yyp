@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "a3771edd-1667-443c-ab20-780f28b507c6",
+            "Value": {
+                "id": "4e5f38f6-142f-4bb1-959e-7163da061e45",
+                "resourcePath": "objects\\oJackHand\\oJackHand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a5e506fd-8b0c-43d5-9c65-05e7d0e8f06b",
             "Value": {
                 "id": "5adffe8a-f66d-4cb8-a580-e528ca448ecc",
@@ -691,6 +699,14 @@
             "Value": {
                 "id": "efab97ee-8c62-4a8d-b730-e90b5dc91da5",
                 "resourcePath": "objects\\oWorldEaterDying\\oWorldEaterDying.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6731d36-9f11-44b1-bb18-7fb0da401730",
+            "Value": {
+                "id": "57d108ba-37fc-496b-920b-9ec2a7412d51",
+                "resourcePath": "objects\\oJackSpark\\oJackSpark.yy",
                 "resourceType": "GMObject"
             }
         },
