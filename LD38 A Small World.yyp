@@ -775,6 +775,14 @@
             }
         },
         {
+            "Key": "c199b4fa-36ce-4964-8424-bf73c2246ab5",
+            "Value": {
+                "id": "85b93ecb-8e13-4515-bd71-59cb9e41d078",
+                "resourcePath": "sounds\\sfPlanetChomp\\sfPlanetChomp.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c36629c5-c0cb-4619-9b53-d6e70ee39a06",
             "Value": {
                 "id": "027654e9-849c-4b5d-ab4c-000a8b6a1a9c",
