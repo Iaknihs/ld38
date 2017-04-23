@@ -14,7 +14,7 @@ if(irandom_range(1,2)==1){
 	image_xscale=-1;
 }
 
-if(irandom_range(1,40)==33){
+if(irandom_range(1,34)==33){
 	image_xscale=3;
 	image_yscale=3;
 }
