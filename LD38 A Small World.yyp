@@ -607,6 +607,14 @@
             }
         },
         {
+            "Key": "932f2548-ed30-45e1-a291-51d6639e6963",
+            "Value": {
+                "id": "5c72411f-9c4d-44d0-a94d-4f880fb07ffb",
+                "resourcePath": "sprites\\sMeteorDamaged\\sMeteorDamaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "991b6065-a272-4b0d-8ee2-f45c29fdee7f",
             "Value": {
                 "id": "2dcd5397-3058-41f8-a842-6ed96c9a537d",
