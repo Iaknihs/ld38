@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "3fd97c33-d38a-4a5b-a8ee-9191538d2c3f",
+            "Value": {
+                "id": "43e62e2f-c775-4aea-99d1-fad12b8f9f43",
+                "resourcePath": "sprites\\sChainReaction\\sChainReaction.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43068207-49e8-4f6e-8b36-d439cb93ca4a",
             "Value": {
                 "id": "5d74a083-2941-4541-b853-5f3b85d06a4d",
@@ -279,19 +287,27 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "4fae3011-db3d-4f96-9a20-d3f7d4a503d9",
+            "Key": "46cbaeff-b248-4303-b18b-02b3c253a847",
             "Value": {
-                "id": "d41a07de-9020-4c5f-9a59-05a9bde499c9",
-                "resourcePath": "objects\\oJackSpawn\\oJackSpawn.yy",
-                "resourceType": "GMObject"
-=======
+                "id": "6cf048af-4c51-4431-997b-17696f425ca7",
+                "resourcePath": "sprites\\sChain\\sChain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4f272993-b609-4b32-a9de-f578bceb3d67",
             "Value": {
                 "id": "dc9db0b4-ce84-45cc-8665-010fefdc4040",
                 "resourcePath": "sprites\\sJackSpark\\sJackSpark.yy",
                 "resourceType": "GMSprite"
->>>>>>> master
+            }
+        },
+        {
+            "Key": "4fae3011-db3d-4f96-9a20-d3f7d4a503d9",
+            "Value": {
+                "id": "bf1193ea-77cd-4876-9f20-3e85ef3ec4f2",
+                "resourcePath": "objects\\oJackSpawn\\oJackSpawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -353,7 +369,7 @@
         {
             "Key": "7632108e-80f2-4346-a6ac-6fd834880776",
             "Value": {
-                "id": "d882ee72-901e-4d86-acd9-cf7aee151e83",
+                "id": "ae672ddd-f2e8-4b71-a2ae-a4d154745d5f",
                 "resourcePath": "objects\\oJack\\oJack.yy",
                 "resourceType": "GMObject"
             }
@@ -401,7 +417,7 @@
         {
             "Key": "7bed7c37-253e-458b-ad87-218177c3695c",
             "Value": {
-                "id": "39bce569-9e81-4f52-863a-b0c96910f9f7",
+                "id": "a7189d39-c9bc-48e5-af7b-e26cb30ef5ed",
                 "resourcePath": "objects\\oJackDespawn\\oJackDespawn.yy",
                 "resourceType": "GMObject"
             }

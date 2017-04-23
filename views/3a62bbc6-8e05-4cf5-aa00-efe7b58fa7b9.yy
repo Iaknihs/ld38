@@ -24,8 +24,7 @@
         "a5e506fd-8b0c-43d5-9c65-05e7d0e8f06b",
         "ddb2e6b6-c8ee-459e-9c57-2ed9d9b6d68a",
         "f2611665-2fea-45a6-977b-333f2034a1ae",
-        "1b38a8df-cba2-4977-952e-7958446bc347",
-        "45d94bb5-7824-4132-b476-a36c5ffac02e"
+        "1b38a8df-cba2-4977-952e-7958446bc347"
     ],
     "filterType": "GMSprite",
     "folderName": "ENM",

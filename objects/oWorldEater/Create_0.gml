@@ -10,4 +10,5 @@ sp = 0.1;
 
 counter = 0;
 
+
 instance_destroy();
