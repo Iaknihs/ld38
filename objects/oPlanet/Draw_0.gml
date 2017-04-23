@@ -6,7 +6,7 @@ else draw_self();
 if(!hatched and oBird.hatchingtime/30+100<255 and !nomming and instance_number(oChicken)+instance_number(oChick)>=20){
 	nomming=1;
 	sprite_index = sChompingPlanet;
-	audio_play_sound(sfPlanetShellBreak,3,0);
+	audio_play_sound(sfPlanetChomp,3,0);
 }
 if(nomming and image_index == image_number -1){
 	nomming=0;
