@@ -15,7 +15,7 @@ if(nomming and image_index == image_number -1){
 	}
 	sprite_index = sPlanet1;
 }
-if(oBird.hatchingtime/30+100==255){
+if(oBird.hatchingtime/*/30*/+100==255){
 	sprite_index = sPlanetChickHatching;
 	oBird.hatchingtime +=100;
 	nomming=0;
@@ -32,6 +32,7 @@ if(sprite_index==sPlanetChickHatching and image_index>40){
 	hatched = 1;
 	audio_stop_all();
 	audio_play_sound(sfVictory,10,0);
+	instance_create_layer(x,y,"Instances",oCredits);
 }
 if(hatched){
 	if(irandom_range(0,240)==33) audio_play_sound(sfPlantetChickPeep,10,0);
