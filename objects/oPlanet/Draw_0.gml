@@ -6,6 +6,7 @@ else draw_self();
 if(!hatched and oBird.hatchingtime/30+100<255 and !nomming and instance_number(oChicken)+instance_number(oChick)>=20){
 	nomming=1;
 	sprite_index = sChompingPlanet;
+	audio_play_sound(sfPlanetShellBreak,3,0);
 }
 if(nomming and image_index == image_number -1){
 	nomming=0;
@@ -18,6 +19,7 @@ if(oBird.hatchingtime/30+100==255){
 	sprite_index = sPlanetChickHatching;
 	oBird.hatchingtime +=100;
 	nomming=0;
+	audio_play_sound(sfPlanetShellBreak,3,0);
 }
 if(sprite_index==sPlanetChickHatching and image_index>40){
 	sprite_index = sPlanetChickIdle;
@@ -28,6 +30,11 @@ if(sprite_index==sPlanetChickHatching and image_index>40){
 		with(oWorldEater) instance_destroy();
 	}
 	hatched = 1;
+	audio_stop_all();
+	audio_play_sound(sfVictory,10,0);
+}
+if(hatched){
+	if(irandom_range(0,240)==33) audio_play_sound(sfPlantetChickPeep,10,0);
 }
 if(oBird.chainstart != 0){
 	if(!ccchained){
