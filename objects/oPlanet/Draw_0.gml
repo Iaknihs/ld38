@@ -29,3 +29,13 @@ if(sprite_index==sPlanetChickHatching and image_index>40){
 	}
 	hatched = 1;
 }
+if(oBird.chainstart != 0){
+	if(!ccchained){
+		draw_sprite_ext(sChainReaction,cchained,x,y,1,1,image_angle,c_white,1);
+		cchained+=1;
+		if(cchained==sprite_get_number(sChainReaction)-1) ccchained = true;
+	}else{
+		draw_sprite_ext(sChain,cchained,x,y,1,1,image_angle,c_white,1);
+	}
+	if(instance_number(oJack)==0) oBird.chainstart=0;
+}

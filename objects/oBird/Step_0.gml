@@ -45,6 +45,7 @@ if(jumping){
 		if(hatchingtime mod 90 == 80){
 			instance_create_layer(x,y,"Instances",oEgg);
 		}
+		if(chainstart != 0 and hatchingtime==chainstart) hatchingtime-=89;
 	}
 }else {
 	sprite_index = sBirdStill;
