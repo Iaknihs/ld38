@@ -9,6 +9,3 @@ rDir = point_direction(oPlanet.x,oPlanet.y,xstart,ystart);
 sp = 0.1;
 
 counter = 0;
-
-
-instance_destroy();
