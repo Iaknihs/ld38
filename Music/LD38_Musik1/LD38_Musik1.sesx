@@ -1,0 +1,1456 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sesx>
+<sesx version="1.4">
+
+  <session appBuild="10.1.0.174" appVersion="10.1" audioChannelType="stereo" bitDepth="32" duration="1440000" sampleRate="48000">
+    <name>LD38_Musik1.sesx</name>
+    <tracks>
+      <audioTrack automationLaneOpenState="false" id="10001" index="1" select="true" visible="true">
+        <trackParameters trackHeight="134" trackHue="-1" trackMinimized="false">
+          <name>Track 1</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="e74c5f95-ce36-408d-8081-8e671c562477" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="23cae770-3ed9-4e75-b909-fa92d9a8b3f2" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="281d629b-08fa-496e-9fe1-471b0171dbc2" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="a836aead-473f-444c-bc04-78bbc5b67efd" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="afe14912-6d05-4056-a52e-184b490c6f25" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="d96590be-8c03-45f3-9575-421b0d54c8b6" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="ebfe198c-707c-4af9-ba7a-32fb560bcf27" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="458968e1-721e-4ace-9090-29aa45d11395" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="abb9baf5-9e71-49a4-b517-7b2f1e8dce72" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="d1af39dd-3ece-4bc5-ada4-5917a42cfc60" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="be11d446-fcb6-49b5-b1c5-269409e8276f" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="8c9d9cfa-c925-4e21-922d-a9697783708d" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="0af59b86-d50d-4092-80b5-d76dd549e763" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="56a49f16-fd48-42f3-a22e-be0f2ef4045e" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="c7ba1668-b248-4b90-a200-802b1e03b6df" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="1d361513-00d0-4051-8789-fa831cf7b14a" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="cc7bfca1-6888-4ee7-a781-1d9df88ef420" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="a5f9da92-ffa2-4278-8872-28cb5d487610" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="8aef9bf4-f623-43ab-8353-f3e5ebee2687" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="fbb7bcf5-f608-4a9d-a0ad-6c974ea1725f" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </audioTrack>
+      <audioTrack automationLaneOpenState="false" id="10002" index="2" select="false" visible="true">
+        <trackParameters trackHeight="134" trackHue="342.5385618209838867" trackMinimized="false">
+          <name>Track 2</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="f7fbc819-4a79-40ca-bfee-bb506f487741" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="27a04307-e55b-4f84-9e01-218be9754317" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="9b726d1a-2b7e-426d-a00c-61dc3a05f0c1" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="48cdd262-7f5c-4433-a9f1-0042566fd893" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="229b0708-f429-4021-9e77-81292dc5e965" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="6573c81b-d97e-42c2-bfa1-73c7740255ee" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="4ac93fdc-f3e2-4c9c-8ab4-1fcc60746949" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="dc21ab08-c3f1-4d62-a6a1-9dcffc34f9a1" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="0f061f3b-5139-4d64-b605-e7be69a936a5" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="2e94c3d6-8826-4f72-ad92-b6e9f666a31c" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="50094701-dc37-4612-b228-e13fd20c1321" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="f51b37bb-14a8-4549-b191-a76b40d71ff5" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="fe7ef0d0-32d2-4d16-b354-5db10d03c4f4" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="ad224b98-f0f6-46a2-8068-5c8898aa8789" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="80a00a7b-4801-4d03-a0ac-ef687f04ec64" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="ec579600-5933-41a9-9129-976384dcddfc" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="1f102b61-12e4-420f-bd94-9fe9d95297d8" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="3ba68548-fd77-4d29-ab80-d0c089a8b3dc" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="8b6c4ab8-3e13-402c-9509-ec9bbd94a09f" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="ee0db321-de12-4c8f-918b-754c9c9e7924" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </audioTrack>
+      <audioTrack automationLaneOpenState="false" id="10003" index="3" select="false" visible="true">
+        <trackParameters trackHeight="134" trackHue="236.0941743850708008" trackMinimized="false">
+          <name>Track 3</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="3367ac5b-a94d-4c7c-af00-663a83aaf257" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="fa9234b3-4907-408e-9ffc-148b074c5463" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="fbb4a5ee-7f41-4bce-b93b-d0f57cf4c75c" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="8c731e36-ed5e-4477-9578-3e57a7247eae" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="4e191163-94ca-4997-83b3-4820995e122d" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="91842acd-96af-4660-8c52-847b049f2c95" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="b9aa58c9-4093-4831-916d-368d0cfc62e9" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="2f706766-50e8-4cdd-bece-f975ac3db55b" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="998b7534-3715-4f6d-a943-16d79f29fb33" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="499ecfa9-c4d4-43b4-96bc-106274a87a31" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="0789d8d4-8b31-4960-ab1f-f97e7a98c2a2" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="47fc7b7d-8d43-482e-9c43-f72e00967a3d" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="7f49ac1a-9cce-42b6-b8da-691e0de83e49" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="52701722-bcc0-49f7-aa1b-e1ccae352289" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="0eab94fc-b117-4ab9-b8d2-5ffee18d8e66" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="ae527084-7bc9-4ed2-b173-5fbd0169c7e2" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="86c37cd2-65a1-4060-bf46-a2a4f1bdf812" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="d7f4421e-3333-4b5f-85d6-a1efbbca345f" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="d742ca06-50f0-453a-89f3-7c0828024d1e" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="a8226062-11bc-4405-85f2-169a96be8c40" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </audioTrack>
+      <audioTrack automationLaneOpenState="false" id="10004" index="4" select="false" visible="true">
+        <trackParameters trackHeight="134" trackHue="67.8862380981445313" trackMinimized="false">
+          <name>Track 4</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="ecba6cf3-b381-4349-a922-994b8c8bc95f" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="b90bf130-00c9-445c-a59d-1793a99f2684" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="9740e2b0-dd35-4900-9b04-dab12bad5b76" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="52beedbc-c1f6-4105-840e-a2a9e1656e51" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="66b2e1c5-9351-41f0-bf66-ab29a438317b" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="2be62594-8837-440e-af3e-37b679cf0d88" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="cfcb5bf9-00b1-43ee-99b5-1c639ea6e1d9" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="0e55718c-c75b-44fc-a4a2-b0d32388d28a" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="c10788f5-da32-4633-ad06-c4ea8aea1695" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="da824ccb-eb7f-468f-b562-28f3ebbed7f1" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="e52d61b6-ab45-4106-9e47-9373cc87b9e9" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="44f71086-2497-4344-a7e3-26e563719204" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="9bb9718f-c3f6-470b-9960-9c8a5c8de987" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="e17de1f5-f8d6-4070-a130-0cce230fc60c" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="3c7740e5-5111-4194-a969-251bc510d476" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="7d5bf764-5ac0-4084-8518-0d0f10eaeb06" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="2a3c5956-e0f6-4cf6-9860-4514abdcdae7" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="3d5160c3-cc82-4f3b-a0ec-d656ae3388db" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="f00cf931-73f8-4568-9cd6-be4074468fa7" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="1fdd3711-8725-4bf4-9b2d-f10907fabcd4" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </audioTrack>
+      <audioTrack automationLaneOpenState="false" id="10005" index="5" select="false" visible="true">
+        <trackParameters trackHeight="134" trackHue="28.8028049468994141" trackMinimized="false">
+          <name>Track 5</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="a4080a08-38ae-4d78-b2bb-21bad868f852" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="73ee86b8-6384-410c-a6b4-fa02259aef04" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="301c27be-c645-4cbc-8e54-34cb41fd0dc2" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="19d5f05a-b806-4cfc-98b1-888f517e750e" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="7f098a0f-7898-4345-8242-e45f6eb71089" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="42796c7a-f007-4607-a7e1-7df25cf1de7b" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="cc192060-1b4b-4c3e-a45c-28a3afc09158" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="7307c08f-a5a1-4e05-bebd-fb5cb083d220" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="ea4f6521-d60d-412d-bb0f-205289d5531a" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="2d69b0d4-fc56-4d0d-afcf-947fdac6e60e" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="3dc37b32-4250-452c-9497-b5984bba2faa" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="f1920b90-2180-4f1c-8265-a46722854550" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="604c8752-73f2-43a7-a46c-375992123341" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="af73cf73-de78-4a52-80fd-bf095701ce07" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="e326bf9c-7a5f-4498-9503-c308edcfca9e" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="38f91b9e-a475-470b-869a-02f4390994d6" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="10902740-cf0a-4f55-ae31-b2aa82a83997" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="6ae0c211-d585-4952-bf25-257cbb1b0b8b" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="11c807b0-bcf9-4d54-9fef-ae06971993e7" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="46199ed7-5651-4cff-8531-77a07deee136" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </audioTrack>
+      <audioTrack automationLaneOpenState="false" id="10006" index="6" select="false" visible="true">
+        <trackParameters trackHeight="134" trackHue="225.9876537322998047" trackMinimized="false">
+          <name>Track 6</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="73812539-3d4b-4bd6-873a-7e9dfd118147" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="a523e15f-c572-4bfc-9620-5e2601a3c92c" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="4945d401-4b15-46f1-bcd9-b62ae2927e50" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="11e2a2dc-a3be-447d-88fe-84a41595ce7f" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="2493899d-126b-420e-a873-6de93215216c" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="c1bcdb07-4133-42ee-8bd6-4aa7e21c90ae" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="676b7472-a80a-425b-b789-f3f24d27e93b" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="75b51130-8c01-4ab3-b139-fcee5148fca0" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="7d0e0734-c8f1-4773-8565-778421ad4692" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="666cf999-7621-41cb-9186-d7e3a1a7b186" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="c5f732cb-64e0-4d51-8ed6-5fd27686d3c3" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="fc2cdc85-9e98-4e1c-9cae-28e02e6fa62b" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="da2d8272-36c3-4d5c-b591-5f93dc2a3107" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="912fc609-2fe7-44ec-aab2-69ba591a2648" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="bbe6f949-2645-4433-b19b-ec0bb58a6325" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="7cf3bf18-b673-4c46-a66b-0599cc347edb" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="4fba846b-6a88-4abe-bb25-7e2ea9312d46" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="e48f40ac-79d5-4410-8f9e-684c9b3ff289" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="677f75df-ab45-415e-a107-a6b458641aff" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="bb9e9fd4-e6d8-4b03-b2a1-d924a9041b1a" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </audioTrack>
+      <masterTrack automationLaneOpenState="false" id="10000" index="7" select="false" visible="true">
+        <trackParameters trackHeight="134" trackHue="-1" trackMinimized="false">
+          <name>Master</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="1" type="hardwareOutput"/>
+          <trackInput inputID="-1"/>
+          <component componentGuid="d1ce6486-a9fe-4c8c-8094-7132a1765585" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="7a810f16-ac3e-43d4-b52c-df1c61b26492" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="63233c69-6f70-4947-bad2-7f0a77231d5b" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="8f3ae1be-9458-44ce-918f-d38fbb53c57a" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+      </masterTrack>
+    </tracks>
+    <sessionState ctiPosition="0" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="0"/>
+      <viewState horizontalViewDuration="0" horizontalViewStart="0" trackControlsWidth="0" verticalScrollOffset="0"/>
+      <timeFormatState beatsPerBar="4" beatsPerMinute="120" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
+      <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3"/>
+    </sessionState>
+    <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160302, 2017/03/02-16:59:38        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <xmp:CreatorTool>Adobe Audition CC 2017.1 (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2017-04-23T13:20:20+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2017-04-23T13:20:20+02:00</xmp:MetadataDate>
+         <xmpDM:Tracks>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CuePoint Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Cue</xmpDM:trackType>
+                  <xmpDM:frameRate>f48000</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CD Track Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Track</xmpDM:trackType>
+                  <xmpDM:frameRate>f48000</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>Subclip Markers</xmpDM:trackName>
+                  <xmpDM:trackType>InOut</xmpDM:trackType>
+                  <xmpDM:frameRate>f48000</xmpDM:frameRate>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpDM:Tracks>
+         <xmpMM:InstanceID>xmp.iid:3056d68c-a14f-6042-958b-e3f0eba02bb1</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:4f6de0d2-948f-a84b-967b-d4357bf18a2c</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:4f6de0d2-948f-a84b-967b-d4357bf18a2c</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4f6de0d2-948f-a84b-967b-d4357bf18a2c</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T13:20:20+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2017.1 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3056d68c-a14f-6042-958b-e3f0eba02bb1</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T13:20:20+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2017.1 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/xml</dc:format>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>]]></xmpMetadata>
+    <clipGroups/>
+    <metronome enabled="false" pattern="downBeat subdivision subdivision subdivision " soundSet="sticks">
+      <metronomeTrack automationLaneOpenState="false" id="40000" index="0" select="false" visible="false">
+        <trackParameters trackHeight="77" trackHue="-1" trackMinimized="false">
+          <name>Metronom</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="mono" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="-1"/>
+          <component componentGuid="792f70d7-b0dd-48c0-936b-b4846c84a7f2" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.5011872"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="b1a93d3a-9f54-4df9-bc5b-c5ec2f222bf9" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="5fd4e04d-b12f-45a2-a77d-12c094ed513b" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Balance" parameterValue="0"/>
+          </component>
+          <component componentGuid="42954d16-5533-4fda-896b-93d21989d193" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Tiefenanhebungsfrequenz" parameterValue="0.000834"/>
+            <parameter index="1" name="Tiefenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="2" name="Höhenanhebungsfrequenz" parameterValue="0.7497915"/>
+            <parameter index="3" name="Höhenanhebungsverstärkung" parameterValue="0.5"/>
+            <parameter index="4" name="EQ-Band 1 - Center-Frequenz" parameterValue="0.001251"/>
+            <parameter index="5" name="EQ-Band 1 - Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ-Band 1 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="7" name="EQ-Band 1 aktivieren" parameterValue="1"/>
+            <parameter index="8" name="EQ-Band 2 - Center-Frequenz" parameterValue="0.0075063"/>
+            <parameter index="9" name="EQ-Band 2 - Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ-Band 2 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="11" name="EQ-Band 2 aktivieren" parameterValue="1"/>
+            <parameter index="12" name="EQ-Band 3 - Center-Frequenz" parameterValue="0.0325271"/>
+            <parameter index="13" name="EQ-Band 3 - Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ-Band 3 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="15" name="EQ-Band 3 aktivieren" parameterValue="1"/>
+            <parameter index="16" name="EQ-Band 4 - Center-Frequenz" parameterValue="0.1326105"/>
+            <parameter index="17" name="EQ-Band 4 - Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ-Band 4 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="19" name="EQ-Band 4 aktivieren" parameterValue="1"/>
+            <parameter index="20" name="EQ-Band 5 - Center-Frequenz" parameterValue="0.5329441"/>
+            <parameter index="21" name="EQ-Band 5 - Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ-Band 5 - Verstärkung" parameterValue="0.5"/>
+            <parameter index="23" name="EQ-Band 5 aktivieren" parameterValue="1"/>
+            <parameter index="24" name="Master-Verstärkung" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Filterreihenfolge Tiefenanhebung" parameterValue="0"/>
+            <parameter index="27" name="Filterreihenfolge Höhenanhebung" parameterValue="0"/>
+            <parameter index="28" name="Ultraleiser Modus" parameterValue="0"/>
+            <parameter index="29" name="Low-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="30" name="High-Shelf-aktiviert" parameterValue="1"/>
+            <parameter index="31" name="Ursprüngliche Abtastrate" parameterValue="0.25"/>
+            <parameter index="32" name="EQ-Band 1 - Bandbreite" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ-Band 2 - Bandbreite" parameterValue="0.01"/>
+            <parameter index="34" name="EQ-Band 3 - Bandbreite" parameterValue="0.04"/>
+            <parameter index="35" name="EQ-Band 4 - Bandbreite" parameterValue="0.16"/>
+            <parameter index="36" name="EQ-Band 5 - Bandbreite" parameterValue="0.64"/>
+            <parameter index="37" name="Hochpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="38" name="Hochpassfilterfrequenz" parameterValue="0"/>
+            <parameter index="39" name="Hochpasskurve" parameterValue="0.4"/>
+            <parameter index="40" name="Tiefpassfilter aktivieren" parameterValue="0"/>
+            <parameter index="41" name="Tiefpassfilterfrequenz" parameterValue="0.8331943"/>
+            <parameter index="42" name="Tiefpasskurve" parameterValue="0.4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="Niedriger Diagrammbereich" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component componentGuid="6e710f56-a2f4-418b-83b8-6e336dbc21d0" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component componentGuid="c780d206-8254-402e-80ee-2fa53547743f" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component componentGuid="ea052bcf-13f0-49bc-8af7-69a1699f544d" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component componentGuid="7d1c7278-840e-4a73-a322-933da7171dda" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component componentGuid="5044e68d-0737-4e92-84b0-161d285751ce" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component componentGuid="5ff29b7b-e04d-481e-b6e8-b3bdd0cea7f9" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component componentGuid="ae1efc20-e870-4bc7-934a-19d0fd719d00" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component componentGuid="5d462df8-8e57-47c2-8f85-dc448a7df0e4" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component componentGuid="5d810b09-4964-41b3-86a3-05877524d744" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component componentGuid="05b9be8d-56ae-4943-a4c5-cf275a798b74" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component componentGuid="32bb69af-5ef7-44c2-8c82-78d87dd9913c" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component componentGuid="f72dfb11-bc67-4d1a-8f00-8e2f62e59a04" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component componentGuid="cfb704cd-b5a1-40d5-b50e-76e98f2a1885" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component componentGuid="266baf64-068b-4d90-9709-25fbadcbf9e3" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component componentGuid="3091694d-6254-41c8-b564-c877c514d406" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component componentGuid="a7652cc9-74f2-4987-879d-21fd3c816f19" id="sendComponent" powered="false">
+              <parameter index="0" name="An/Aus" parameterValue="0"/>
+              <parameter index="1" name="Stufe" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </metronomeTrack>
+    </metronome>
+    <properties/>
+  </session>
+
+  <files/>
+
+  <audioDevice inputID="51CA02EE-7914-48C6-B53E-C94B6A482F4B" outputID="4D715267-7CE2-4DCB-A2E4-0BA3A4D89CF3">
+    <inputPort id="1" name="Standard-Stereoeingang"/>
+    <inputPort id="2" name="[01M] Mikrofon (Samson Meteor Mic) 1"/>
+    <inputPort id="3" name="[02M] Mikrofon (Samson Meteor Mic) 2"/>
+    <inputPort id="4" name="[01S] Mikrofon (Samson Meteor Mic) 1"/>
+    <outputPort id="1" name="Standardausgang"/>
+    <outputPort id="2" name="[01M] Lautsprecher (Realtek High Definition Audio) 1"/>
+    <outputPort id="3" name="[02M] Lautsprecher (Realtek High Definition Audio) 2"/>
+    <outputPort id="4" name="Standard-Stereoausgang"/>
+    <outputPort id="5" name="[01S] Lautsprecher (Realtek High Definition Audio) 1"/>
+    <outputPort id="6" name="Standard-Surroundausgabe"/>
+  </audioDevice>
+
+</sesx>
