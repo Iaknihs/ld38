@@ -6,6 +6,6 @@ dir = point_direction(xstart,ystart,oPlanet.x,oPlanet.y);
 rDir = point_direction(oPlanet.x,oPlanet.y,xstart,ystart);
 
 sp = 0.5;
-hp = 270;
+hp = 9;
 
 hurtTimer = 0;
