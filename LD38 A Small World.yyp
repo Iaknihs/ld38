@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "b56d37be-f800-4305-b7d9-450187152c31",
+            "Value": {
+                "id": "efab97ee-8c62-4a8d-b730-e90b5dc91da5",
+                "resourcePath": "objects\\oWorldEaterDying\\oWorldEaterDying.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b776fa9f-2834-4333-a5da-a75a1bae3080",
             "Value": {
                 "id": "642ba211-801b-48d3-b5b4-f728a135f74a",
