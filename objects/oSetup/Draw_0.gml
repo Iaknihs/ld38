@@ -19,6 +19,7 @@ ini_close();
 instance_create_depth(x,y,0,oControl);
 randomize();
 audio_play_sound(mDusckspace,10,true);
+audio_play_sound(sfDuckwalk,3,false);
 
 //THIS DRAW EVENT IS ONLY DONE ONCE!
 instance_destroy();

@@ -1,6 +1,7 @@
 /// @description 
 
 if(!birdImmune){
+	audio_play_sound(sfJack1+irandom_range(0,4),3,0);
 	hp-=1;
 	birdImmune = true;
 	if(hp<=0) instance_destroy();

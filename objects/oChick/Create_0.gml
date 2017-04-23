@@ -12,3 +12,5 @@ age = 0;
 scale = 1;
 image_xscale=scale;
 image_yscale=scale;
+
+audio_play_sound(sfChick1+irandom_range(0,2),3,0);

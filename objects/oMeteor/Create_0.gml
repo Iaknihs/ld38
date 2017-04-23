@@ -8,3 +8,4 @@ rDir = point_direction(oPlanet.x,oPlanet.y,xstart,ystart);
 sp = 0.4;
 hp = 90;
 
+hurtTimer = 0;

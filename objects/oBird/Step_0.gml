@@ -11,6 +11,7 @@ if(jumping){
 	}
 }else if(oControl.jumpJustPressed){
 	sprite_index = sBirdJump;
+	audio_play_sound(sfDuckJump,3,0);
 	dy=-30;
 	jumping = true;
 	if(carrying!=noone and carrying.thrown == false){

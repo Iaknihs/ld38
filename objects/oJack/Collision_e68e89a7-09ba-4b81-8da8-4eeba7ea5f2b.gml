@@ -1,5 +1,6 @@
 /// @description 
 
+audio_play_sound(sfJack1+irandom_range(0,4),3,0);
 with(other) instance_destroy();
 hp-=1;
 if(hp<=0) instance_destroy();
