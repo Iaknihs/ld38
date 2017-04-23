@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "4f272993-b609-4b32-a9de-f578bceb3d67",
+            "Value": {
+                "id": "dc9db0b4-ce84-45cc-8665-010fefdc4040",
+                "resourcePath": "sprites\\sJackSpark\\sJackSpark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56b51519-035d-4605-8db9-736aae9fcc07",
             "Value": {
                 "id": "7f56187f-8142-4f8e-ad90-1b042a02a31e",
