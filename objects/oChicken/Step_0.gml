@@ -13,6 +13,7 @@ if(!carried){
 	x=oPlanet.x + lengthdir_x(82,oPlanet.image_angle+relPos-angStart);
 	y=oPlanet.y + lengthdir_y(82,oPlanet.image_angle+relPos-angStart);
 }else if(!thrown){
+	if(oBird.carrying != self) carried = false;
 	x=oBird.x;
 	y=oBird.y-oBird.sprite_height;
 }else{

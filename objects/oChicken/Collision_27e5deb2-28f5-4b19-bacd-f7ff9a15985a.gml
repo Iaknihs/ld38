@@ -1,6 +1,6 @@
 /// @description 
 
-if(oBird.carrying == noone){
+if(other.carrying == noone and carried == false and (not other.jumping)){
 	carried = true;
-	oBird.carrying = self;
+	other.carrying = self;
 }
