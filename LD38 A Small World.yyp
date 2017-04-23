@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "4fae3011-db3d-4f96-9a20-d3f7d4a503d9",
+            "Value": {
+                "id": "d41a07de-9020-4c5f-9a59-05a9bde499c9",
+                "resourcePath": "objects\\oJackSpawn\\oJackSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "56b51519-035d-4605-8db9-736aae9fcc07",
             "Value": {
                 "id": "7f56187f-8142-4f8e-ad90-1b042a02a31e",
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "7632108e-80f2-4346-a6ac-6fd834880776",
+            "Value": {
+                "id": "d882ee72-901e-4d86-acd9-cf7aee151e83",
+                "resourcePath": "objects\\oJack\\oJack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7698e042-d69c-4a49-bb11-d0eb35c15cc3",
             "Value": {
                 "id": "5ffbc846-faf7-43fb-b151-616d621a7394",
@@ -371,6 +387,14 @@
             "Value": {
                 "id": "235a0c53-bcee-4c9f-8ba3-e04877d5e481",
                 "resourcePath": "objects\\oExplosion\\oExplosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7bed7c37-253e-458b-ad87-218177c3695c",
+            "Value": {
+                "id": "39bce569-9e81-4f52-863a-b0c96910f9f7",
+                "resourcePath": "objects\\oJackDespawn\\oJackDespawn.yy",
                 "resourceType": "GMObject"
             }
         },
