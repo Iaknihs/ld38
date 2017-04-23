@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "79237de6-897e-4a5a-bf02-077cf0b40d37",
+            "Value": {
+                "id": "726f586d-8fc1-42ba-9a90-6d45c1ab1153",
+                "resourcePath": "fonts\\fntWin\\fntWin.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "7b22883c-7290-46c6-8a7f-0184700dc187",
             "Value": {
                 "id": "3db56d4f-023a-4087-bfac-fa81f1ab1ad0",
