@@ -4,6 +4,7 @@
 hatchingtime = 0;
 hatchingstate = 0;
 jumping = false;
+chainstart = 0;
 
 dy=0;
 grav=3;

@@ -6,3 +6,5 @@ if(oControl.leftPressed and !oBird.jumping){
 if(oControl.rightPressed and !oBird.jumping){
 	image_angle +=1;
 }
+
+if(hitpoints <= 0) game_restart();
