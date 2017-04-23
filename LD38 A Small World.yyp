@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "3fd97c33-d38a-4a5b-a8ee-9191538d2c3f",
+            "Value": {
+                "id": "43e62e2f-c775-4aea-99d1-fad12b8f9f43",
+                "resourcePath": "sprites\\sChainReaction\\sChainReaction.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43068207-49e8-4f6e-8b36-d439cb93ca4a",
             "Value": {
                 "id": "5d74a083-2941-4541-b853-5f3b85d06a4d",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "0e429738-475d-4dca-af61-d7c8e4fa15a0",
                 "resourcePath": "sprites\\sWorldEater\\sWorldEater.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "46cbaeff-b248-4303-b18b-02b3c253a847",
+            "Value": {
+                "id": "6cf048af-4c51-4431-997b-17696f425ca7",
+                "resourcePath": "sprites\\sChain\\sChain.yy",
                 "resourceType": "GMSprite"
             }
         },
