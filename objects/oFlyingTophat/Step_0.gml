@@ -1,6 +1,6 @@
 /// @description
  
-if(point_distance(oPlanet.x,oPlanet.y,x,y) > 300){
+if(point_distance(oPlanet.x,oPlanet.y,x,y) > 400){
 	xrel = xrel + lengthdir_x(sp,dir);
 	yrel = yrel + lengthdir_y(sp,dir);
 }else{

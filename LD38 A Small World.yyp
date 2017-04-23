@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0b56518a-dba3-4c29-bc93-6cea5d4b94d8",
+            "Value": {
+                "id": "b8cc8a22-8c89-44de-a381-aaf63555e4f9",
+                "resourcePath": "sprites\\sSpawner\\sSpawner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0dc7054e-f991-45ba-a2f6-e788b6672adb",
             "Value": {
                 "id": "2a292cfa-e5f4-4741-8dd6-2017cdf9a617",
@@ -540,6 +548,14 @@
                 "id": "e7f6148f-b6f5-45b3-a42d-a6dec8abf4d4",
                 "resourcePath": "sprites\\sJackHand\\sJackHand.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c3825f81-9ba0-4346-b421-15dcd5007d37",
+            "Value": {
+                "id": "8706df54-6bad-4107-8a4d-1248a59c9bc0",
+                "resourcePath": "objects\\oSpawner\\oSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {

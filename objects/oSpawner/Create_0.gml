@@ -1,0 +1,4 @@
+/// @description 
+
+difficulty = 0;
+
