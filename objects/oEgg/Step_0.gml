@@ -3,7 +3,8 @@
 timer++;
 
 if(timer>60*10){
-	instance_create_layer(x,y,"Instances",oChick);
+	var temp = instance_create_layer(x,y,"Instances",oChick);
+	if(image_xscale==3) temp.scale=3;
 	instance_destroy();
 }
 
