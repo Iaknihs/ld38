@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "4d82e4c2-a105-4b9c-b913-eac0d449e488",
+            "Value": {
+                "id": "b567baea-b61d-4bcd-8e93-feb8cc6cbae3",
+                "resourcePath": "sounds\\mJackTheme\\mJackTheme.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4f272993-b609-4b32-a9de-f578bceb3d67",
             "Value": {
                 "id": "dc9db0b4-ce84-45cc-8665-010fefdc4040",
