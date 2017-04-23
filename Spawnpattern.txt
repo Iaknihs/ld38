@@ -1,0 +1,11 @@
+ENEMY PATTERNS
+
+phase 0: 5 seconds of nothing, giving the player the opportunity to test their movement 
+
+phase 1: small meteors
+
+phase 2: + MeteorM every min or so 1 MeteorL
+
+phase 3: Flying Tophats
+
+if WorldEater is beaten, Jack appears
