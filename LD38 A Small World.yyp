@@ -279,11 +279,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "4fae3011-db3d-4f96-9a20-d3f7d4a503d9",
             "Value": {
                 "id": "d41a07de-9020-4c5f-9a59-05a9bde499c9",
                 "resourcePath": "objects\\oJackSpawn\\oJackSpawn.yy",
                 "resourceType": "GMObject"
+=======
+            "Key": "4f272993-b609-4b32-a9de-f578bceb3d67",
+            "Value": {
+                "id": "dc9db0b4-ce84-45cc-8665-010fefdc4040",
+                "resourcePath": "sprites\\sJackSpark\\sJackSpark.yy",
+                "resourceType": "GMSprite"
+>>>>>>> master
             }
         },
         {
