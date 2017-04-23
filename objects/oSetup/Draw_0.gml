@@ -3,6 +3,7 @@
 ini_open("config.ini");
 window_set_fullscreen(ini_read_real("screen","fullscreen",1));
 window_set_size(ini_read_real("screen","width",1920),ini_read_real("screen","height",1080));
+randomize();
 
 global.keyLeft = findKey(ini_read_string("controls","left","vk_left"));
 global.keyUp = findKey(ini_read_string("controls","up","vk_up"));
